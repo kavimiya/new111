@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 l learn new concept 
 
 sir what next task
+=======
+l learn new concept
+ok done next go
+ok 
+>>>>>>> a76f5095c02d4835c3be5e897cdd4bd001325566
